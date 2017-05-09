@@ -1,0 +1,8 @@
+E:\backup\backup\study\csharp-5sem\hw1\bin\Debug\netcoreapp1.1\hw1.deps.json
+E:\backup\backup\study\csharp-5sem\hw1\bin\Debug\netcoreapp1.1\hw1.runtimeconfig.json
+E:\backup\backup\study\csharp-5sem\hw1\bin\Debug\netcoreapp1.1\hw1.runtimeconfig.dev.json
+E:\backup\backup\study\csharp-5sem\hw1\bin\Debug\netcoreapp1.1\hw1.dll
+E:\backup\backup\study\csharp-5sem\hw1\bin\Debug\netcoreapp1.1\hw1.pdb
+E:\backup\backup\study\csharp-5sem\hw1\obj\Debug\netcoreapp1.1\hw1.AssemblyInfo.cs
+E:\backup\backup\study\csharp-5sem\hw1\obj\Debug\netcoreapp1.1\hw1.dll
+E:\backup\backup\study\csharp-5sem\hw1\obj\Debug\netcoreapp1.1\hw1.pdb
